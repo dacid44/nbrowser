@@ -9,7 +9,7 @@ A OOP-based command line file browser.
 
 #### errors.py
 
-​	Contains exceptions and errors used by the program.
+​	Contains exceptions, errors, and warnings used by the program.
 
 #### commands.py
 
